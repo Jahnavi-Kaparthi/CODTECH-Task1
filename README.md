@@ -1,7 +1,11 @@
-###**Name:** JAHNAVI KAPARTHI
-###**Company:** CODTECH IT SOLUTIONS
+**Name:** JAHNAVI KAPARTHI
+
+**Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT4JP2637 
+
 **Domain:** Java Programming
+
 **Duration:** June to July 2024
 
 **Overview of the Project**
